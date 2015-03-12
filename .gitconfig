@@ -1,6 +1,6 @@
 [user]
-	email = me@luizbranco.com
-	name = Luiz Branco
+	email = hi@larissavoigt.com
+	name = Larissa Voigt
 
 [core]
   editor = nvim
@@ -46,7 +46,7 @@
   cmd = nvim -d $BASE $LOCAL $REMOTE $MERGED -c '$wincmd w' -c 'wincmd J'
 
 [github]
-	user = luizbranco
+	user = larissavoigt
 
 [ghi]
 	token = e16f5082b8db203f8cd3620c76413ff3f3a45e90
